@@ -1,236 +1,251 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2342,100:1a3a5c&height=220&section=header&text=Juan%20Pablo%20Valero%20Buitrago&fontSize=38&fontColor=58a6ff&fontAlignY=38&desc=Industrial%20Engineer%20%7C%20Data%20Analyst%20%7C%20Process%20Automation&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
+<!-- ═══════════════════ HEADER NEON ═══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a1628,60:00d4ff,100:ff006e&height=240&section=header&text=Juan%20Pablo%20Valero%20B.&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=⚡%20Engineer%20·%20Data%20Analyst%20·%20AI%20Builder%20⚡&descAlignY=62&descColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Ingeniero+Industrial+%40+Universidad+ECCI+🎓;Practicante+%40+Ecopetrol+⚡;Power+BI+%7C+Python+%7C+SQL+%7C+SAP+ERP;n8n+%7C+RPA+%7C+OCR+%7C+Power+Automate;Automatización+de+Procesos+%26+Datos)](https://git.io/typing-svg)
+<!-- Typing neon -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D4FF&background=00000000&center=true&vCenter=true&width=750&lines=🤖+Actualmente+inmerso+en+Inteligencia+Artificial;⚡+Power+BI+·+Python+·+n8n+·+RPA+·+OCR;🔥+Power+Platform+·+Databricks+·+Spark;🚀+Automatización+de+Procesos+%26+Datos;🎓+Ing.+Industrial+@+ECCI+·+Téc.+Sistemas+@+SENA)](https://git.io/typing-svg)
 
+<!-- Social badges neón -->
 <p>
   <a href="https://www.linkedin.com/in/juan-pablo-valero-buitrago-7b474316b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:juanchopvb16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Bogotá,_Colombia_🇨🇴-1a3a5c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open_to_Oportunidades-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Juanpavbo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <img src="https://img.shields.io/badge/🇨🇴_Bogotá-1a1a2e?style=for-the-badge"/>
 </p>
+
+<!-- Visitor counter -->
+<img src="https://komarev.com/ghpvc/?username=Juanpavbo&color=00d4ff&style=for-the-badge&label=VISITAS+AL+PERFIL"/>
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+
+## ⚡ `> whoami`
 
 ```python
-juan_pablo = {
-    "nombre"    : "Juan Pablo Valero Buitrago",
-    "ubicacion" : "Bogotá, Colombia 🇨🇴",
-    "email"     : "juanchopvb16@gmail.com",
-    "perfil"    : [
-        "Ingeniero Industrial Junior",
-        "Tecnólogo en Gestión de Procesos Industriales",
-        "Técnico en Sistemas",
-    ],
-    "especialidad" : [
-        "Logística & Cadena de Suministro",
-        "Análisis de Datos & Business Intelligence",
-        "Automatización de Procesos (RPA, n8n, Power Automate)",
-        "SAP ERP / SAP Ariba",
-    ],
-    "filosofia" : "Optimizar procesos con datos precisos → decisiones que generan valor real 📊",
-}
+#!/usr/bin/env python3
+# ══════════════════════════════════════════════════════
+#  Juan Pablo Valero Buitrago  ·  Bogotá 🇨🇴
+# ══════════════════════════════════════════════════════
+
+class JuanPablo:
+    nombre     = "Juan Pablo Valero Buitrago"
+    ubicacion  = "Bogotá, Colombia 🇨🇴"
+    email      = "juanchopvb16@gmail.com"
+
+    enfoque_actual = [
+        "🤖 Inteligencia Artificial & LLMs",
+        "⚡ Automatización con n8n · RPA · OCR · MCP",
+        "📊 Business Intelligence & Power Platform",
+        "🔥 ETL Pipelines · Data Analytics",
+    ]
+
+    stack_fav  = ["Python", "Power BI", "n8n", "SQL", "Databricks"]
+    aprendiendo = ["MCP Integrations", "Agentes IA", "Spark", "Context Engineering"]
+    filosofia  = "» Datos + IA + Automatización = Procesos sin fricción 🚀"
 ```
 
-> *Ingeniero Industrial con sólida formación en logística, gestión de la cadena de suministro y análisis de procesos. Experiencia en SAP ERP, SAP Ariba, Python, Power BI y herramientas de automatización. Enfocado en mejora continua y optimización operacional.*
-
 ---
 
-## 💼 Experiencia Profesional
-
-<table>
-  <tr>
-    <td width="60px" align="center">⚡</td>
-    <td>
-      <strong>Ecopetrol</strong><br/>
-      <em>Practicante Profesional — Alistamiento & Gestión de Proveedores | Excelencia de Abastecimiento</em><br/>
-      📅 Julio 2025 – Presente &nbsp;|&nbsp; 📍 Bogotá, Colombia<br/>
-      <sub>Gestión de proveedores, abastecimiento estratégico y procesos logísticos en el sector energético colombiano.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">🏢</td>
-    <td>
-      <strong>Organización Suma S.A.S.</strong><br/>
-      <em>Técnico Administrativo — Calidad Operacional</em><br/>
-      📅 Agosto 2024 – Junio 2025 &nbsp;|&nbsp; 📍 Bogotá, Colombia<br/>
-      <sub>Gestión de calidad operacional, análisis de procesos administrativos y mejora continua organizacional.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">🏗️</td>
-    <td>
-      <strong>CEMEX</strong><br/>
-      <em>Aprendiz — Cadena de Suministro</em><br/>
-      📅 Octubre 2023 – Abril 2024 &nbsp;|&nbsp; 📍 Colombia<br/>
-      <sub>Logística operativa, gestión de inventarios y cadena de suministro en empresa multinacional de construcción.</sub>
-    </td>
-  </tr>
-</table>
-
----
+<!-- ═══════════════════ FORMACIÓN ═══════════════════ -->
 
 ## 🎓 Formación Académica
 
+<div align="center">
+
 | | Institución | Programa | Nivel |
-|---|---|---|---|
+|:---:|:---|:---|:---:|
 | 🏛️ | **Universidad ECCI** | Ingeniería Industrial | Grado Universitario |
 | 🔧 | **Universidad ECCI** | Gestión de Procesos Industriales | Tecnología |
 | 📊 | **Universidad ECCI** | Herramientas para la Productividad en la Industria | Seminario |
 | 🚚 | **Politécnico Superior de Colombia** | Logística de la Cadena de Suministro | Ingeniería |
-| 💻 | **SENA** | Análisis y Desarrollo de Software (ADSO) | Tecnología |
-| 🖥️ | **SENA** | Técnico en Sistemas | Técnico |
+| 💻 | **SENA** | Técnico en Sistemas | Técnico |
+
+</div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+## 🛠️ Tech Stack
+
+### 🤖 Inteligencia Artificial & Automatización
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF006E?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RPA-7B2FFF?style=for-the-badge&logo=uipath&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCR-00D4FF?style=for-the-badge&logo=googlecloud&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MCP_Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_Scraping-00FF87?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
 
 ### 📊 Business Intelligence & Datos
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white"/>
 </p>
 
-### 🐍 Programación & Análisis
+### 🐍 Programación & Data Science
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-00D4FF?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
 ### 🗄️ Bases de Datos
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-FF006E?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-00D4FF?style=for-the-badge&logo=sqlite&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### ⚙️ ERP & Sistemas Empresariales
-<p>
-  <img src="https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP_Ariba-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### 🤖 Automatización & IA
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RPA-0052CC?style=for-the-badge&logo=uipath&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OCR-FF6B35?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_Scraping-43B02A?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🌐 Desarrollo Web & Software
+### 🌐 Desarrollo & Productividad
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-00D4FF?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
+<!-- ═══════════════════ CERTIFICACIONES ═══════════════════ -->
+
 ## 📜 Certificaciones
 
-| | Certificación |
-|---|---|
-| 🏅 | **Analítica de Datos para Procesos Logísticos** |
-| 🏅 | **Excel – De Básico a Intermedio** |
-| 🏅 | **Excel: Fundamentos para el Análisis y Organización de Datos** |
-| 🏅 | **Curso Excel Avanzado y Fundamentos en Power BI** |
-| 🏅 | **Fundamentos de Power BI** |
+<div align="center">
+
+| 🏅 | Certificación |
+|:---:|:---|
+| ![badge](https://img.shields.io/badge/✓-Analítica_de_Datos_para_Procesos_Logísticos-00D4FF?style=flat-square) | **Analítica de Datos para Procesos Logísticos** |
+| ![badge](https://img.shields.io/badge/✓-Excel_Avanzado_&_Fundamentos_en_Power_BI-F2C811?style=flat-square) | **Curso Excel Avanzado y Fundamentos en Power BI** |
+| ![badge](https://img.shields.io/badge/✓-Fundamentos_de_Power_BI-FF006E?style=flat-square) | **Fundamentos de Power BI** |
+| ![badge](https://img.shields.io/badge/✓-Excel_de_Básico_a_Intermedio-00FF87?style=flat-square) | **Excel – De Básico a Intermedio** |
+| ![badge](https://img.shields.io/badge/✓-Excel_Fundamentos_Análisis_de_Datos-7B2FFF?style=flat-square) | **Excel: Fundamentos para el Análisis y Organización de Datos** |
+
+</div>
 
 ---
+
+<!-- ═══════════════════ PROYECTOS ═══════════════════ -->
 
 ## 🚀 Proyectos Destacados
 
-### 📊 Hurto por Modalidades — Power BI Dashboard
-> Análisis académico de hurto de vehículos en Colombia (2010–2025) con datos abiertos de la Policía Nacional.
+<table>
+<tr>
+<td width="50%">
 
-- ✅ Librería DAX con **38 medidas** en 6 carpetas de visualización
-- ✅ Tabla `Calendario` calculada + tabla geográfica `DIVIPOLA`
-- ✅ Agregaciones temporales con `SUMMARIZECOLUMNS`
-- ✅ Dashboard estilo gerencial — Universidad ECCI
+### 📊 Hurto por Modalidades
+> **Power BI · DAX · Open Data Colombia**
 
-`Power BI` `DAX` `Open Data Colombia` `Ingeniería Industrial`
+Dashboard académico de hurto de vehículos en Colombia (2010–2025) con datos abiertos de la Policía Nacional.
+
+- 🔹 38 medidas DAX en 6 carpetas
+- 🔹 Tabla `Calendario` + `DIVIPOLA` geográfica
+- 🔹 Dashboard gerencial — Universidad ECCI
+
+</td>
+<td width="50%">
+
+### 🏥 PQR-ETL-SUPERSALUD
+> **Python · pandas · ETL · Power BI**
+
+Pipeline de datos sobre quejas PQR del sector salud colombiano (2017–2025, 10 datasets).
+
+- 🔹 Streaming + procesamiento chunked
+- 🔹 Optimización de memoria
+- 🔹 Integración completa con Power BI
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Churn Prediction — ML
+> **PyCaret · scikit-learn · Python**
+
+Predicción de abandono de clientes (50.000 registros) con AutoML.
+
+- 🔹 Comparación de 16 modelos
+- 🔹 Métricas reales computadas
+- 🔹 Informe analítico estructurado
+
+</td>
+<td width="50%">
+
+### 🏢 Import Tech — BD Relacional
+> **MySQL · SQL · SENA ADSO**
+
+Base de datos relacional completa para caso de estudio empresarial.
+
+- 🔹 6 tablas relacionales desde cero
+- 🔹 Diagrama ER + 18 casos de prueba
+- 🔹 Documentación formal completa
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏥 PQR-ETL-SUPERSALUD — Pipeline de Datos
-> ETL completo sobre quejas PQR del sector salud colombiano (2017–2025, 10 datasets).
+<!-- ═══════════════════ STATS ═══════════════════ -->
 
-- ✅ Pipeline Python en **Google Colab** con streaming y procesamiento chunked
-- ✅ Optimización de memoria para datasets de gran volumen
-- ✅ Integración con **Power BI** y medidas DAX para análisis de tendencias
-
-`Python` `pandas` `ETL` `Power BI` `Salud Pública Colombia`
-
----
-
-### 🏢 Import Tech S.A.S. — Base de Datos Relacional
-> Proyecto SQL/MySQL para curso ADSO — SENA.
-
-- ✅ Base de datos desde cero: **6 tablas relacionales**
-- ✅ Diagrama ER + 18 casos de prueba documentados
-
-`MySQL` `SQL` `Diseño Relacional` `SENA ADSO`
-
----
-
-### 📈 Predicción de Churn — Machine Learning
-> Clasificación de abandono de clientes (50.000 registros sintéticos) con PyCaret.
-
-- ✅ Comparación de **16 modelos** de clasificación con métricas reales
-- ✅ Informe analítico estructurado — SIG IIND 2026
-
-`Python` `PyCaret` `scikit-learn` `Machine Learning`
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=juanpavbo23&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=F2C811&text_color=8b949e"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpavbo23&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Juanpavbo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00d4ff&icon_color=ff006e&text_color=ffffff&ring_color=00d4ff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanpavbo&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0221&title_color=00d4ff&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanpavbo23&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=F2C811&currStreakLabel=58a6ff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanpavbo&theme=radical&hide_border=true&background=0d0221&ring=00d4ff&fire=ff006e&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8b949e&stroke=00d4ff"/>
 </div>
 
 ---
 
-## 🌱 Actualmente explorando
+<!-- ═══════════════════ ACTUALMENTE ═══════════════════ -->
 
-```text
-⚡  Prácticas en Ecopetrol — Gestión de Proveedores & Excelencia de Abastecimiento
-🤖  Automatización avanzada con n8n + MCP (Model Context Protocol)
-📊  Databricks & Apache Spark para big data industrial
-🔄  RPA + OCR para automatización documental empresarial
-🏭  Supply Chain Management & mejora continua
+## 🧠 Actualmente explorando
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🤖  Agentes de IA con MCP (Model Context Protocol)        │
+│   ⚡  Automatización end-to-end con n8n + RPA + OCR         │
+│   🔥  Databricks & Apache Spark para Big Data               │
+│   📊  Advanced DAX patterns en Power BI                     │
+│   🌐  Context Engineering para desarrollo con IA            │
+│   🚀  Power Platform: Automate + Apps + BI integrados       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <div align="center">
 
@@ -241,13 +256,19 @@ juan_pablo = {
 </a>
 &nbsp;
 <a href="mailto:juanchopvb16@gmail.com">
-  <img src="https://img.shields.io/badge/Email-juanchopvb16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-juanchopvb16@gmail.com-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Juanpavbo">
+  <img src="https://img.shields.io/badge/GitHub-Juanpavbo-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-*"Los procesos bien medidos son procesos mejorados."*
+```
+⚡ "La IA no reemplaza procesos — los transforma." ⚡
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,60:0a2342,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2FFF,100:00D4FF&height=120&section=footer&animation=fadeIn"/>
 
 </div>
