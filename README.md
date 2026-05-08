@@ -3,7 +3,7 @@
 <!-- ═══════════════════ HEADER NEON ═══════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a1628,60:00d4ff,100:ff006e&height=240&section=header&text=Juan%20Pablo%20Valero%20B.&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=⚡%20Engineer%20·%20Data%20Analyst%20·%20AI%20Builder%20⚡&descAlignY=62&descColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D4FF&background=00000000&center=true&vCenter=true&width=750&lines=🤖+Actualmente+inmerso+en+Inteligencia+Artificial;⚡+Power+BI+·+Python+·+n8n+·+RPA+·+OCR;☁️+Azure+·+Docker+·+SQL+Server+·+Ollama;🔥+Power+Platform+·+Databricks+·+Spark;🎓+Ing.+Industrial+@+ECCI+·+Téc.+Sistemas+@+SENA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D4FF&background=00000000&center=true&vCenter=true&width=750&lines=🤖+Actualmente+inmerso+en+Inteligencia+Artificial;⚡+Claude+·+ChatGPT+·+DeepSeek+·+Ollama;☁️+Azure+·+Docker+·+SQL+Server+·+MongoDB;🔥+Power+Platform+·+Databricks+·+Spark;🎓+Ing.+Industrial+@+ECCI+·+Téc.+Sistemas+@+SENA)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/juan-pablo-valero-buitrago-7b474316b" target="_blank">
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>☁️</td>
-    <td>Cloud & DevOps: <strong>Azure · Docker · SQL Server</strong></td>
+    <td>Cloud & DevOps: <strong>Azure · Docker · SQL Server · MongoDB</strong></td>
   </tr>
   <tr>
     <td>🔥</td>
@@ -83,15 +83,25 @@
 
 ## 🛠️ Tech Stack
 
-### 🤖 Inteligencia Artificial & Automatización
+### 🧠 LLMs & Herramientas de IA
 <p>
+  <img src="https://img.shields.io/badge/Claude_(Anthropic)-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT_(OpenAI)-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepSeek-00D4FF?style=for-the-badge&logo=deepseek&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Perplexity-1EAEFA?style=for-the-badge&logo=perplexity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-7B2FFF?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NotebookLM_(Google)-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gamma-FF006E?style=for-the-badge&logo=gamma&logoColor=white"/>
+</p>
+
+### 🤖 Automatización & Web
+<p>
   <img src="https://img.shields.io/badge/n8n-FF006E?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/RPA-7B2FFF?style=for-the-badge&logo=uipath&logoColor=white"/>
   <img src="https://img.shields.io/badge/OCR-00D4FF?style=for-the-badge&logo=googlecloud&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MCP_Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web_Scraping-00FF87?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
 </p>
 
 ### 📊 Business Intelligence & Datos
@@ -107,7 +117,15 @@
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### 🗄️ Bases de Datos
+<p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-FF006E?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-00D4FF?style=for-the-badge&logo=sqlite&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ### 🐍 Programación & Data Science
@@ -120,15 +138,7 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
-### 🗄️ Bases de Datos
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-FF006E?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-00D4FF?style=for-the-badge&logo=sqlite&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### ⚙️ ERP & Sistemas Empresariales
+### ⚙️ ERP & Productividad
 <p>
   <img src="https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAP_Ariba-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
@@ -168,8 +178,8 @@
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   🤖  Agentes de IA locales con Ollama + MCP                    │
-│   ⚡  Automatización end-to-end: n8n · RPA · OCR                │
+│   🤖  Agentes de IA locales: Ollama · Claude · DeepSeek         │
+│   ⚡  Automatización end-to-end: n8n · RPA · OCR · MCP          │
 │   ☁️  Cloud & Contenedores: Azure · Docker                      │
 │   🔥  Databricks & Apache Spark para Big Data                   │
 │   📊  Advanced DAX patterns en Power BI                         │
