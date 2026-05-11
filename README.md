@@ -3,7 +3,12 @@
 <!-- ═══════════════════ HEADER NEON ═══════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a1628,60:00d4ff,100:ff006e&height=240&section=header&text=Juan%20Pablo%20Valero%20B.&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=⚡%20Engineer%20·%20Data%20Analyst%20·%20AI%20Builder%20⚡&descAlignY=62&descColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D4FF&background=00000000&center=true&vCenter=true&width=750&lines=🤖+Actualmente+inmerso+en+Inteligencia+Artificial;⚡+Claude+·+ChatGPT+·+DeepSeek+·+Ollama;☁️+Azure+·+Docker+·+SQL+Server+·+MongoDB;🔥+Power+Platform+·+Databricks+·+Spark;🎓+Ing.+Industrial+@+ECCI+·+Téc.+Sistemas+@+SENA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D4FF&background=00000000&center=true&vCenter=true&width=750&lines=☁️+Azure+·+Docker+·+SQL+Server+·+MongoDB;🔥+Power+Platform+·+Databricks+·+Spark;⚡+Claude+·+ChatGPT+·+DeepSeek+·+Ollama;🎓+Ing.+Industrial+@+ECCI+·+Téc.+Sistemas+@+SENA)](https://git.io/typing-svg)
+
+<!-- Badge destacado -->
+<img src="https://img.shields.io/badge/🤖_Actualmente-Desarrollando_Agentes_de_IA-FF006E?style=for-the-badge"/>
+
+<br/><br/>
 
 <p>
   <a href="https://www.linkedin.com/in/juan-pablo-valero-buitrago-7b474316b" target="_blank">
@@ -39,7 +44,7 @@
   </tr>
   <tr>
     <td>🤖</td>
-    <td>Actualmente inmerso en <strong>Inteligencia Artificial & LLMs</strong></td>
+    <td>Actualmente <strong>desarrollando Agentes de IA</strong></td>
   </tr>
   <tr>
     <td>⚡</td>
@@ -92,6 +97,15 @@
   <img src="https://img.shields.io/badge/Ollama-7B2FFF?style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/NotebookLM_(Google)-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gamma-FF006E?style=for-the-badge&logo=gamma&logoColor=white"/>
+</p>
+
+### 💻 Entornos de Desarrollo
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-00D4FF?style=for-the-badge&logo=cursor&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoftcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenClaw-FF006E?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCode-7B2FFF?style=for-the-badge&logo=terminal&logoColor=white"/>
 </p>
 
 ### 🤖 Automatización & Web
@@ -178,12 +192,12 @@
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   🤖  Agentes de IA locales: Ollama · Claude · DeepSeek         │
-│   ⚡  Automatización end-to-end: n8n · RPA · OCR · MCP          │
+│   🤖  Desarrollando Agentes de IA con MCP · Ollama · Claude     │
+│   ⚡  Automatización end-to-end: n8n · RPA · OCR                │
 │   ☁️  Cloud & Contenedores: Azure · Docker                      │
 │   🔥  Databricks & Apache Spark para Big Data                   │
 │   📊  Advanced DAX patterns en Power BI                         │
-│   🌐  Context Engineering para desarrollo con IA                │
+│   💻  Copilot Studio · OpenCode · Cursor como IDEs de IA        │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
